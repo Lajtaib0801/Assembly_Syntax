@@ -13,7 +13,7 @@ https://www.felixcloutier.com/x86/
 version: 1.9
 web: https://github.com/GabrielFrigo4/Custom-Hightlight-Langs/edit/main/gnome-text-editor/asm-intel.lang
 -->
-<language id="assembler" name="Assembler (Intel)" version="2.0" section="Sources">
+<language id="assembler" name="Assembler (Intel)" version="2.0" section="Source">
 	<metadata>
 		<property name="mimetypes">text/x-asm;text/x-assembler</property>
 		<property name="globs">*.asm;*.s;*.S;*.inc</property>

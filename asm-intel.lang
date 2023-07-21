@@ -16,7 +16,7 @@ web: https://github.com/GabrielFrigo4/Custom-Hightlight-Langs/edit/main/gnome-te
 <language id="assembler" name="Assembler (Intel)" version="2.0" section="Source">
 	<metadata>
 		<property name="mimetypes">text/x-asm;text/x-assembler</property>
-		<property name="globs">*.asm;*.s;*.S;*.inc</property>
+		<property name="globs">*.asm;*.inc</property>
 	</metadata>
 
 	<styles>
